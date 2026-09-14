@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tosstify"
+  short_description: "사용자 설명과 가이드를 명확한 토스식 흐름으로 바꿔요"
+  default_prompt: "Use $tosstify to explain this clearly in Korean and guide the user to the next action."
+
+policy:
+  allow_implicit_invocation: true
